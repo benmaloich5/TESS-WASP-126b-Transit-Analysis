@@ -23,7 +23,7 @@ The analysis includes:
 
 ## Transit Model
 
-![WASP-126 b transit model](figures/TIC 25155310 - Final MCMC Transit Model.pdf)
+![WASP-126 b transit model](figures/TIC 25155310 - Final MCMC Transit Model.png)
 
 ## Results
 
