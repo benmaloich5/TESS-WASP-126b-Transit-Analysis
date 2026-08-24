@@ -37,7 +37,7 @@ The MCMC analysis gives:
 | $a/R_\star$ | $7.73\pm 0.08$ |
 | $i$ | $88.05^{+0.31}_{-0.27}\$ deg |
 
-Using a stellar radius of approximately $1.27\ R_\odot$, the estimated
+Using a stellar radius of approximately $1.27\ R_\odot$ (https://exo.mast.stsci.edu/), the estimated
 planet radius is approximately
 
 $$
