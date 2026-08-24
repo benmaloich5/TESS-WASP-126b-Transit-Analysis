@@ -21,6 +21,10 @@ The analysis includes:
 - Posterior distributions and parameter uncertainties
 - Conversion of fitted parameters into physical quantities
 
+## Transit Model
+
+![WASP-126 b transit model](figures/TIC 25155310 - Final MCMC Transit Model.pdf)
+
 ## Results
 
 The BLS period search gives an orbital period of approximately
